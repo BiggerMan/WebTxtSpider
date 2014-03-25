@@ -2,4 +2,8 @@ WebTxtSpider
 ============
 
 a simple web spider to get txt files and classfied them.
-project start time:08/02/2014
+history:
+project start time:02/08,2014
+
+get a code from the web to complete the QiuBaiSpider:3/1,2014
+
